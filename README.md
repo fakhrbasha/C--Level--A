@@ -81,7 +81,7 @@ int - float - char - bool - unit - long - ulong - double - string
             Console.WriteLine(h); // name datatype
             ----------------------
 # Connditional statements :
-* if - else
+ if - else
             int a = 10;
             int b = 20;
             if (a == b) // condition
@@ -94,7 +94,7 @@ int - float - char - bool - unit - long - ulong - double - string
             }
             // output C#
             ---
-* if - else if - else :
+ if - else if - else :
             int a = 1;
             int b = 2;  
             if(a>b)
@@ -110,8 +110,8 @@ int - float - char - bool - unit - long - ulong - double - string
             }
             // output C#
             ---
-  * switch : 
-            // user defined
+   switch : 
+    
             int b = Convert.ToInt32(Console.ReadLine());
             switch (b)
             {
