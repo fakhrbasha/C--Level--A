@@ -27,8 +27,8 @@ int - float - char - bool - unit - long - ulong - double - string
             Console.Write(default(int));
             ----------------------
 # Casting : 
-تحويل داتا تيب الي داتاتايب اخر
-convert. ....
+//تحويل داتا تيب الي داتاتايب اخر
+            //convert. ....
             //IPLICIT CONVERSION
             int x = 10;
             long y;
