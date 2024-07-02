@@ -25,11 +25,9 @@ int - float - char - bool - unit - long - ulong - double - string
             float y = 1.5f;// saffix
             decimal d = 10000m;
             Console.Write(default(int));
-            ----------------------
+            
 # Casting : 
-//تحويل داتا تيب الي داتاتايب اخر
-            //convert. ....
-            //IPLICIT CONVERSION
+           
             int x = 10;
             long y;
             y =x;
